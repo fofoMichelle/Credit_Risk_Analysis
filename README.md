@@ -32,6 +32,18 @@ Below I will be showing the different models used as well as the results:
 
 ![image](https://user-images.githubusercontent.com/99924850/176742151-ae94710f-4c16-49f8-8a57-1e55f2fa1403.png)
 
+- Balanced Random Forest Classifier results :  balanced accuracy score is 78%, the precision is 99% and the recall is 87% overall
+
+![image](https://user-images.githubusercontent.com/99924850/176743265-56dd56ba-a66b-46fc-9ff1-61c629275f7b.png)
+
+- Ensemnle AdaBoost Classifier results: balanced accuracy score is 93%, the precision is 99% and the recall is 94% overall
+
+![image](https://user-images.githubusercontent.com/99924850/176743417-32a967be-374b-4db3-a92f-9fce3e2682ce.png)
+
+# Summary
+
+The common thing for all the models used is that they show a low risk precision in performing the prediction. The Ensemble Classifier seem to provide better resu;ts as its balanced accuracy score is 93% the precision is 99% and the recall rate is at 94% for high and low risk loans this means that if the model was to be used it will 
+
 
 
 
