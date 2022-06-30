@@ -38,7 +38,7 @@ Below I will be showing the different models used as well as the results:
 
 - Ensemnle AdaBoost Classifier results: balanced accuracy score is 93%, the precision is 99% and the recall is 94% overall
 
-![image](https://user-images.githubusercontent.com/99924850/176743417-32a967be-374b-4db3-a92f-9fce3e2682ce.png)
+![image](https://user-images.githubusercontent.com/99924850/176745240-006fa2a7-d79a-49e1-b7fc-79fd6193db73.png)
 
 # Summary
 
