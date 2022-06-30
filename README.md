@@ -42,7 +42,9 @@ Below I will be showing the different models used as well as the results:
 
 # Summary
 
-The common thing for all the models used is that they show a low risk precision in performing the prediction. The Ensemble Classifier seem to provide better resu;ts as its balanced accuracy score is 93% the precision is 99% and the recall rate is at 94% for high and low risk loans this means that if the model was to be used it will 
+The common thing for all the models used is that they show a low risk precision in performing the prediction. The Ensemble Classifier seem to provide better resu;ts as its balanced accuracy score is 93% the precision is 99% and the recall rate is at 94% for high and low risk loans this means that if the model was to be used it will be able to correctly identify the high-risk cases.
+
+As a recomendation the company migh need to further analyze the high risk cases before reaching a conclusion.
 
 
 
