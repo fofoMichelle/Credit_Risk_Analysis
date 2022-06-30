@@ -24,9 +24,11 @@ Below I will be showing the different models used as well as the results:
 
 ![image](https://user-images.githubusercontent.com/99924850/176740551-90d3ec55-0421-4481-9b34-0f6430c5611f.png)
 
-- Combination of over and under sampling results: balanced accuracy score is , the precision is and the recall is overall 
+- Combination of over and under sampling results: balanced accuracy score is 64%, the precision is 99% and the recall is 57% overall 
 
 ![image](https://user-images.githubusercontent.com/99924850/176742213-c292fb8d-07ab-429e-afae-731b9df88eba.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/99924850/176742151-ae94710f-4c16-49f8-8a57-1e55f2fa1403.png)
 
