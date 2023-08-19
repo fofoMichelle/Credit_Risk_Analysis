@@ -46,6 +46,6 @@ The common thing for all the models used is that they show a low risk precision 
 
 As a recomendation the company migh need to further analyze the high risk cases before reaching a conclusion to which model should be used.
 
-For more informations on this project please do not hesitate to reach out on linkendin [Linkedin](linkedin.com/in/michelle-ayinkamiye)
+For more informations on this project please do not hesitate to reach out on linkendin [Linkedin] (linkedin.com/in/michelle-ayinkamiye)
 
 
